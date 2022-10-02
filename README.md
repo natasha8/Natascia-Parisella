@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **DevShed**
 
-- 💬 Ask me about **react, tailwind**
+- 💬 Ask me about **everthing**
 
 - 📫 How to reach me **incepted.dev@gmail.com**
 
